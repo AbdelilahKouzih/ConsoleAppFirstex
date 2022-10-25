@@ -23,7 +23,7 @@ namespace ConsoleAppFirstex // Note: actual namespace depends on the project nam
 
             if (verif != 0)
             {
-                Console.WriteLine("votre nombre n'est pas premier");
+                Console.WriteLine("votre nombre n'est pas Premier");
             }
             else
             {
